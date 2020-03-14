@@ -1,7 +1,7 @@
 # InstaRocket - Built with NodeJS, ReactJS and React Native.
 
 Interface do Instagram recriada com  o objetivo de estudos, foi criada durante a semana OmniStack e
-como esse projeto foi criado com o intuito de aprendizado e nunca vai entrar em produção, eu preferi colocar o backend, front web e mobile todos no mesmo repositorio.
+como esse projeto nunca vai entrar em produção, eu preferi colocar o backend, front web e mobile todos no mesmo repositorio.
 
 ## Como executar o projeto
 
